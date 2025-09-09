@@ -2,12 +2,13 @@
 
 🚀 Sempre em busca de novos desafios, focado em desenvolver soluções criativas e eficientes.  
 💡 Interesse em Frontend, Backend e boas práticas de desenvolvimento de software.  
-📱 Explorando também o universo do desenvolvimento.
+📱 Explorando também o universo do desenvolvimento mobile.  
 
 ---
 
 ### 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-anhaya-543ba9269/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seu-usuario)
 
 ---
 
@@ -27,10 +28,4 @@
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=victor-anhaya&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-anhaya&layout=compact&theme=radical)
-
----
-
-### 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=victor-anhaya&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=victor-anhaya&show_icons=t_)
