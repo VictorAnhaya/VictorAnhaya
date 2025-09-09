@@ -28,4 +28,7 @@
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=victor-anhaya&show_icons=t_)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VictorAnhaya&show_icons=true&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorAnhaya&layout=compact&theme=merko)
+![GitHub Streak](https://streak-stats.demolab.com?user=VictorAnhaya&theme=merko)
+
