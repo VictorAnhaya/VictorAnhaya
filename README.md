@@ -1,7 +1,7 @@
 <h1 align="center">root@VictorAnhaya:~# whoami</h1>
 
 <p align="center">
-  Cybersecurity • Ethical Hacking • Python Automation • Linux
+  Cybersecurity • Hacking • Python Automation • Linux
 </p>
 
 <p align="center">
